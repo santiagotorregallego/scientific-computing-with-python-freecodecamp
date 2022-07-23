@@ -2,7 +2,7 @@
 # for Scientific Computing with Python certification
 
 data=list()
-class splitt:
+class arithmetic_arranger:
     def __init__(self,data,solve=False):
         self.data=data
         self.solve=solve

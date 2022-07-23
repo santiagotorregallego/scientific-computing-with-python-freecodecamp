@@ -1,4 +1,4 @@
-from arithmetic_arranger import splitt
+from arithmetic_arranger import arithmetic_arranger
 data=["10 + 0","100 - 0","1000 + 0","100 + 0","10 + 0"]
-splitt(data,True)
+arithmetic_arranger(data,True)
 
